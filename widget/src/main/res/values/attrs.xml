@@ -1,0 +1,6 @@
+<resources>
+    <declare-styleable name="AppWidgetAttrs">
+        <attr name="appWidgetBackgroundColor" format="reference" />
+        <attr name="appWidgetTextColor" format="color" />
+    </declare-styleable>
+</resources>
